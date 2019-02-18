@@ -1,2 +1,2 @@
 def joke():
-    print('Huton has huttonded.')
+    return('Huton has huttonded.')
